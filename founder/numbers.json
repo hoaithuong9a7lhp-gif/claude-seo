@@ -1,0 +1,47 @@
+{
+  "business": "Tiệm giặt sấy + rèm trọn gói, Tân Phú (152 Tân Kỳ Tân Quý, 10 triệu/tháng). Đơn vị tiền: đồng",
+  "unit": "kg",
+  "price": 14545,
+  "variable": [
+    {"label": "Điện máy giặt + máy sấy (ước tính 0,55 kWh/kg × ~3.400đ/kWh)", "cost": 1900},
+    {"label": "Nước + phí thoát nước (ước tính 5,8 L/kg × 29,3đ/L)", "cost": 170},
+    {"label": "Nước giặt, nước xả, tẩy (ước tính)", "cost": 1000},
+    {"label": "Túi nilon, tem (ước tính)", "cost": 350},
+    {"label": "Xăng giao nhận và đi tháo lắp rèm (ước tính)", "cost": 450},
+    {"label": "Dự phòng bồi thường, giặt lại (~1% giá)", "cost": 150}
+  ],
+  "fixed_monthly": [
+    {"label": "Thuê mặt bằng (tin 152 Tân Kỳ Tân Quý)", "cost": 10000000},
+    {"label": "Nhân viên toàn thời gian", "cost": 7500000},
+    {"label": "BHXH chủ đóng 21,5% trên lương tối thiểu Vùng I 5.310.000đ", "cost": 1141650},
+    {"label": "Bán thời gian giao nhận/rèm 5 giờ × 30 ngày × 25.500đ", "cost": 3825000},
+    {"label": "Điện chiếu sáng, quạt, wifi, camera (ước tính)", "cost": 700000},
+    {"label": "Bảo trì máy", "cost": 1000000},
+    {"label": "Marketing duy trì (ước tính)", "cost": 1500000},
+    {"label": "Phần mềm, điện thoại (ước tính)", "cost": 200000},
+    {"label": "Phí rác, an ninh khu phố (ước tính)", "cost": 200000},
+    {"label": "Chi phí khác (ước tính)", "cost": 500000}
+  ],
+  "startup": [
+    {"label": "Cọc mặt bằng 1 tháng (hoàn lại khi trả mặt bằng)", "cost": 10000000},
+    {"label": "Máy giặt LG OPL CWT29MDORS 17 kg", "cost": 43990000},
+    {"label": "Máy giặt LG CWG27MDQRS 13 kg", "cost": 30950000},
+    {"label": "2 máy sấy Speed Queen LES17AWF3022 15 kg", "cost": 36900000},
+    {"label": "Đi điện nước, nâng công suất điện (ước tính, khoảng 13–35 triệu)", "cost": 15000000},
+    {"label": "Ống thoát khí máy sấy, thông gió", "cost": 5000000},
+    {"label": "Sửa sang mặt bằng, quầy nhận đồ", "cost": 15000000},
+    {"label": "Dụng cụ rèm: bàn ủi hơi đứng, bàn ủi treo, thang rút 3,8 m, thang chữ A", "cost": 7020000},
+    {"label": "Kệ, giá phơi rèm, bàn xếp, giỏ (ước tính)", "cost": 6000000},
+    {"label": "Cân 30 kg, 2 bình chữa cháy, 2 camera", "cost": 3860000},
+    {"label": "Bảng hiệu (ước tính)", "cost": 5000000},
+    {"label": "Hóa chất, túi ban đầu (ước tính)", "cost": 3000000},
+    {"label": "Túi lưới, đồng phục, túi giao hàng (ước tính)", "cost": 2000000},
+    {"label": "Đăng ký kinh doanh, kiểm định cân, giấy tờ (ước tính)", "cost": 1000000},
+    {"label": "Marketing khai trương", "cost": 8000000},
+    {"label": "Dự phòng phát sinh (ước tính)", "cost": 15000000}
+  ],
+  "days_per_month": 30,
+  "capacity_per_day": 160,
+  "plan_per_day": 110,
+  "ramp_per_day": [30, 40, 50, 60, 70, 78, 85, 92, 98, 103, 107, 110]
+}
